@@ -13,18 +13,6 @@ We focus on hands-on, project-based learning that empowers students to solve rea
 
 ---
 
-## Current Project
-
-### Gharbiya Fab Lab Documentation  
-**Live Site:** [fablabgharbiya.netlify.app](https://fablabgharbiya.netlify.app)  
-
-Documentation and resources for our school's **Fab Lab**, featuring:
-- Guides for 3D printing, laser cutting, and PCB fabrication  
-- Tutorials on electronics and robotics  
-- Student project showcases  
-
----
-
 ## Vision
 
 We aim to:
